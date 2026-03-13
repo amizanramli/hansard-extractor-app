@@ -166,10 +166,10 @@ def dataframe_to_xlsx(df):
 # ---------------------------
 # UI
 # ---------------------------
-st.markdown("<h1>Hansard <span>Extractor Pro</span></h1>", unsafe_allow_html=True)
+st.markdown("<h1>Hansard <span>Extractor </span></h1>", unsafe_allow_html=True)
 st.markdown(
     "<p style='text-align:center;color:#94a3b8;margin-bottom:2rem;'>"
-    "Intelligently parse parliamentary debates with automated speaker detection."
+    "V1"
     "</p>",
     unsafe_allow_html=True
 )
